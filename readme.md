@@ -1,5 +1,7 @@
 # Ejercicio: Página "Sobre mí"
 
+**Ver ejercicio resuelto:** [https://pablopelardas.github.io/ficha-personal-uade/PresentaPabloPelardas.html](https://pablopelardas.github.io/ficha-personal-uade/PresentaPabloPelardas.html)
+
 ## Instrucciones
 
 Lo invitamos a resolver el siguiente ejercicio. Lea detenidamente la consigna a desarrollar, así como las instrucciones que se detallan a continuación. Recuerde que toda la ejercitación propuesta lo ayudará a lograr con éxito sus objetivos de aprendizaje.  
